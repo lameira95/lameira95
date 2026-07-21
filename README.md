@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
 </p>
----
 
 ## Sobre mim
 
@@ -29,8 +28,6 @@ Atualmente trabalho como **Suporte Técnico** e sou estudante de **Análise e De
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lameira95/lameira95/output/github-contribution-grid-snake.svg" alt="Snake animation">
