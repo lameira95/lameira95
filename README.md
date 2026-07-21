@@ -10,9 +10,7 @@
   <img src="https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="API">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
 </p>
-
 ---
 
 ## Sobre mim
