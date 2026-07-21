@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo ao meu perfil :D</h1>
+<h1 align="center">Bem-vindo ao meu perfil! </h1>
 
 <p align="center">
   <strong>Renan Lameira</strong><br>
